@@ -1,5 +1,5 @@
 
-<h2>~ Full-Stack Development</h2>
+<h2>~ Web Designer & Full-Stack Development</h2>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ElementalDLC37&show_icons=true&theme=tokyonight" alt="GitHub Readme Stats" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElementalDLC37&hide=html,css&langs_count=8&layout=compact&theme=tokyonight" alt="GitHub Top Languages" />
 
